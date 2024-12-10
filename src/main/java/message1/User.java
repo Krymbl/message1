@@ -7,7 +7,10 @@ package message1;
     - пароль
 */
 
-public class User {
-}
 
-123456
+
+public class User {
+    public static void main(String[] args){
+        System.out.println("Hello");
+    }
+}
