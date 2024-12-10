@@ -10,4 +10,4 @@ package message1;
 public class User {
 }
 
-// Проверка 2
+// Проверка 3
